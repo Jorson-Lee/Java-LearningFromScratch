@@ -1,2 +1,2 @@
 # Java-LearningFromScratch
-Learning Java from scratch
+Personal journey of learning Java.
